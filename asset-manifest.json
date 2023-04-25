@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oneq-visa-dev/static/css/main.073c9b0a.css",
+    "main.js": "/oneq-visa-dev/static/js/main.c9adabd8.js",
+    "static/js/787.4f4decb3.chunk.js": "/oneq-visa-dev/static/js/787.4f4decb3.chunk.js",
+    "static/media/logo.svg": "/oneq-visa-dev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/oneq-visa-dev/index.html",
+    "main.073c9b0a.css.map": "/oneq-visa-dev/static/css/main.073c9b0a.css.map",
+    "main.c9adabd8.js.map": "/oneq-visa-dev/static/js/main.c9adabd8.js.map",
+    "787.4f4decb3.chunk.js.map": "/oneq-visa-dev/static/js/787.4f4decb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c9adabd8.js"
+  ]
+}
